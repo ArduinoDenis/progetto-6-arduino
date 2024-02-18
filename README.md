@@ -4,7 +4,7 @@ This Arduino sketch listens for IR signals using an IR receiver module and print
 
 ## Installation:
 
-1. Download the library "nuova-arduino-irremote-master.zip".
+1. Download the library "IRremote-4.2.1.zip".
 2. Extract the contents of the zip file.
 3. Copy the extracted folder to the following directory: `Documents\Arduino\libraries\paste here`.
 
@@ -18,7 +18,7 @@ This Arduino sketch listens for IR signals using an IR receiver module and print
 
 To use this sketch, you need to install the IRremote library. Follow the instructions below to install the library:
 
-1. Download the library "nuova-arduino-irremote-master.zip".
+1. Download the library "IRremote-4.2.1.zip".
 2. Extract the contents of the zip file.
 3. Copy the extracted folder to the following directory: `Documents\Arduino\libraries\paste here`.
 
