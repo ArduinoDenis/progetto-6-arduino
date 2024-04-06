@@ -1,27 +1,9 @@
 # Arduino IR Receiver
 
-This Arduino sketch listens for IR signals using an IR receiver module and prints the hexadecimal value of the received signal to the serial monitor.
+## Documentation
 
-## Installation:
+For further information and detailed documentation, please refer to the [Documentation](https://docs.arduinodenis.com/github/resources-arduino/arduino-projects/project-6-arduino).
 
-1. Download the library "IRremote-4.2.1.zip".
-2. Extract the contents of the zip file.
-3. Copy the extracted folder to the following directory: `Documents\Arduino\libraries\paste here`.
+## License
 
-## Usage:
-
-1. Connect an IR receiver module to pin 11 of your Arduino board.
-2. Upload the sketch to your Arduino board.
-3. Open the serial monitor to view the hexadecimal values of received IR signals.
-
-## Library Installation:
-
-To use this sketch, you need to install the IRremote library. Follow the instructions below to install the library:
-
-1. Download the library "IRremote-4.2.1.zip".
-2. Extract the contents of the zip file.
-3. Copy the extracted folder to the following directory: `Documents\Arduino\libraries\paste here`.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
+This script is released under the [MIT License](LICENSE).
